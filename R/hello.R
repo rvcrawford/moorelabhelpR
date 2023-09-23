@@ -13,6 +13,12 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
+#' Say hi to a valued member
+
+#' @return A friendly greeting
+#' @examples
+#' hi()
+
 hi <- function() {
   print("Hi, valued team member!")
 }
