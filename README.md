@@ -1,6 +1,6 @@
 # moorelabhelpR
 
-This package is intended to create useful functions for members of the Moore Lab. Makes helperfiles for interacting with BreedBase.
+This package is intended to create useful functions for members of the Moore Lab. Currently this focuses on functions for interacting with BreedBase but the scope is intended to be extended to be more broadly useful to researchers within the lab.
 
 # Installation
 
@@ -10,4 +10,4 @@ devtools::install_github("icarda-git/QBMS")
 devtools::install_github("rvcrawford/moorelabhelpR")
 ```
 
-```moorelabhelpR``` functions are built upon ```QBMS```, which queries BreedBase.
+A number of ```moorelabhelpR``` functions are built upon ```QBMS```, which queries BreedBase.
