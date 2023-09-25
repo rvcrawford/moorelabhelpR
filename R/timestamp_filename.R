@@ -1,6 +1,6 @@
 #' Say hi to a valued member
 
-#' @return a string intend to be
+#' @return a string containing a timestamp added. Timestamp is rounded to the nearest minute
 #' @param myFilename A string, likely a filename
 #' @examples
 #' timestamp_filename("my_awesome_dataset.csv")
