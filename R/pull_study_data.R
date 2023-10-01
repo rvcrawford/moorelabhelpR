@@ -8,6 +8,6 @@
 #' lapply(c("23NYCCALT", "23NYHVALT"), pull_study_data)
 
 pull_study_data <- function(x = "string"){
-  set_study(x)
-  get_study_data()
+  QBMS::set_study(x)
+  QBMS::get_study_data()
 }
