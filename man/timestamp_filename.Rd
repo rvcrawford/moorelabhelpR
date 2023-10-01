@@ -10,7 +10,7 @@ timestamp_filename(my_File_name = "string")
 \item{myFilename}{A string, likely a filename}
 }
 \value{
-a string intend to be
+a string containing a timestamp added. Timestamp is rounded to the nearest minute
 }
 \description{
 Say hi to a valued member
