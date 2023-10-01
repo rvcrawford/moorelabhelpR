@@ -1,4 +1,6 @@
-#' @return a string containing a timestamp added. Timestamp is rounded to the nearest minute
+#' Pull data from some study, simple helper function combining two QBMS functions
+
+#' @return data from some study
 #' @param x A string that is the name of a study available in Breedbase.
 #' @examples
 #' open_ccb_breedbase()

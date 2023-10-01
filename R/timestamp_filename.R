@@ -1,4 +1,4 @@
-#' Say hi to a valued member
+#' Insert a timestamp into a string, likely a filename
 
 #' @return a string containing a timestamp added. Timestamp is rounded to the nearest minute
 #' @param myFilename A string, likely a filename
