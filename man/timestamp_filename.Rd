@@ -2,7 +2,7 @@
 % Please edit documentation in R/timestamp_filename.R
 \name{timestamp_filename}
 \alias{timestamp_filename}
-\title{Say hi to a valued member}
+\title{Insert a timestamp into a string, likely a filename}
 \usage{
 timestamp_filename(my_File_name = "string")
 }
@@ -13,7 +13,7 @@ timestamp_filename(my_File_name = "string")
 a string containing a timestamp added. Timestamp is rounded to the nearest minute
 }
 \description{
-Say hi to a valued member
+Insert a timestamp into a string, likely a filename
 }
 \examples{
 timestamp_filename("my_awesome_dataset.csv")
