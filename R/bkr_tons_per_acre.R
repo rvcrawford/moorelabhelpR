@@ -1,4 +1,4 @@
-#' Translate 18 square foot plot yields into tons per acre (presumably dry)
+#' Translate 18 square foot plot yields into tons per acre
 #' @return yields in tons per acre
 #' @param x yield (presumably dry) expressed in lbs
 #' @examples
